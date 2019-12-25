@@ -9,9 +9,6 @@ Generating a Subpixel Mapped Image for any Hyperspectral image.
 
 To set up contact ADMIN
 
-### Contribution guidelines ###
-Take permission before CLoning
-
 
 ### Who do I talk to? ###
 
